@@ -12,7 +12,7 @@ public class Snake implements IPaintable {
 	
 	public Snake() {
 		this.initSnakeMarbles();
-	}
+	} 
 	
 	private void initSnakeMarbles() {
 		this.marbles = new ArrayList<SnakeMarble>();
